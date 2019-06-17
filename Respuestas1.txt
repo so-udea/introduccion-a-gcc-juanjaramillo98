@@ -1,0 +1,11 @@
+¿Que hacen los argumentos argc y argv?
+
+	argc es el contador de argumentos mas el nombre del ejecutable
+	argv[] es un array de strings donde se guardan cada uno de los argumentos
+ 
+¿Como se usa el programa?
+	
+	el programa debe ser ejecutado con argumentos, los cuales determinan su funcionamiento, si se ingresa -file como argumento escribira
+	"main() : PROGRAM READ FILENAME : + el nombre del siguiente argumento", si se pone debug como argumento el programa espesificara que
+	entro en modo debug, si no se ingresa ningun argunmento el programa imprimira el numero de argumentos y que termino su ejecucion.
+	
